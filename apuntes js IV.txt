@@ -1,0 +1,31 @@
+------COMANDOS JAVASCRIPT------
+
+1. Node --version
+//entorno de despliegue y ejecucion de proyectos js//
+
+2. npm --version
+//gestor de dependencias para js//
+
+3. npm init
+//inicializar el archivo 'package.json' de un proyecto es6//
+
+4.npm i\install <dependencia>
+////
+
+5.npm i colors
+////
+
+
+------2015------
+Las dependencias son en doble via
+//comnonjs
+-> Exportar la dependencia module.exports // exports
+-> Impotar en el destino require(componente) // import xxxx from 'xx'
+
+
+------CONCEPTOS JAVASCRIPT------
+*Desestructuracion:
+Operacion para separar propiedades o elementos de un "todo" en partes, (objetos{} y arreglos[])
+
+*Callback:
+Funcion que se ejecuta al interior de otra que la recibe como parametro
